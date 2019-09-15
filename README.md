@@ -40,6 +40,8 @@ optional arguments:
                         subtitle translation)
   --list-formats        List all available subtitle formats
   --list-languages      List all available source/destination languages
+
+$ autosub -S en -D en '<sourcePath>'
 ```
 
 ### License
